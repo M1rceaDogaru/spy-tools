@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">SpyTools</string>
+    <string name="ToolsTabText">Tools</string>
+    <string name="LibraryTabText">Library</string>
+    <string name="SettingsText">Settings</string>
+    <string name="VideoRecSettings">Video recorder</string>
+    <string name="AudioRecSettings">Audio recorder</string>
+    <string name="CallRecSettings">Call recorder</string>
+    <string name="StartStopFunction">Enable/Disable tools</string>
+    <string name="StartVideoRec">Start video recorder</string>
+    <string name="StartAudioRec">Start audio recorder</string>
+    <string name="StartCallRec">Start call recorder</string>
+    <string name="StopVideoRec">Stop video recorder</string>
+    <string name="StopAudioRec">Stop audio recorder</string>
+    <string name="StopCallRec">Stop call recorder</string>
+    <string name="ActivityLog">Service status</string>
+
+    <string name="MediaRecordingService">Media Recording Service</string>
+    <string name="RecordingInProgress">Recording in progress</string>
+    <string name="RecordingStopped">Recording stopped</string>
+</resources>
